@@ -1,13 +1,8 @@
 {
     "Name": "Associative Prediction of Visual Shape in the Hippocampus",
-    "License": "",
+    "BIDSVersion": "1.0.2",
     "Authors": [
         "Kok, P. & Turk-Browne, N.B."
     ],
-    "Acknowledgements": "",
-    "HowToAcknowledge": "",
-    "Funding": "National Institutes of Health (R01 MH069456)",
-    "ReferencesAndLinks": [],
-    "DatasetDOI": "10.18112/openneuro.ds001517.v1.0.1",
-    "BIDSVersion": "1.0.2"
+    "Funding": "National Institutes of Health (R01 MH069456)"
 }
